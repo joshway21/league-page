@@ -9,13 +9,12 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>"Integrity, above all." 
   -Commissioner Josh </p>
-  <p>This is The League. Not a league, not your buddy’s casual league, but the definitive contest of wills, strategy, and endurance. What others dismiss as a hobby, we recognize as a crucible—where friendships fracture, reputations are forged, and legacies are decided one lineup decision at a time.
-
-To enter is simple. To endure is rare. To win? Nearly impossible.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>This is The League. Not a league, not your buddy’s casual league, but the definitive contest of wills, strategy, and endurance. What others dismiss as a hobby, we recognize as a crucible: where friendships fracture, reputations are forged, and legacies are decided one lineup decision at a time. To enter is simple. To endure is rare. To win? Nearly impossible.</p>
+  <p>At the helm of this endeavor stands The Commissioner:the chosen steward, sworn guardian of fairness, and unyielding defender of league integrity. By the grace of higher powers (and a few scheduling miracles), The Commissioner ensures the draft is sacred, trades are examined, and the season unfolds without collapse.</p>
+  <p>But the Commissioner does not act alone. Whispers speak of The Committee: an anonymous council carefully selected to ensure the League’s balance never falters. They are unseen, yet their influence is everywhere: They convene to assess rosters with surgical precision. They issue power rankings with biting honesty, sparing no ego. They monitor league integrity with a level of seriousness typically reserved for matters of state. Who are they? None can say. What is their mission? To preserve the sanctity of competition.</p>
+  <p>Every week, The Committee delivers Power Rankings: documents treated with the gravity of scripture and the cruelty of satire. Do not mistake these rankings as mere opinions. They are verdicts, calculated and delivered with condescension sharp enough to wound. Those who rise bask in the light of validation. Those who fall… carry the shame like a scarlet letter.</p>
+  <p>The Draft is not a “get-together.” It is a ritual. Dates are set in stone, carved into tablets, and handed down to members as though commandments. Attendance is expected. Preparation is demanded. Excuses are meaningless. Should one falter: be it by date night, illness, or distraction—solutions are engineered to maintain the sanctity of the process. The League will not reschedule. The League does not bend.</p>
+  <p>The League is built on one unshakable principle: the game must be taken far too seriously. Where others laugh, we dissect. Where others shrug, we convene. Where others forget, we immortalize. This is not fantasy. This is The League.<p>
 `;
 
 /*   STEP 3   */
